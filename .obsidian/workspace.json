@@ -11,10 +11,12 @@
             "id": "14f3fe0a8d301adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "video",
+              "state": {
+                "file": "1-SOURCES/Audio/15/མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ག་ར།.mp4"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ག་ར།"
             }
           }
         ]
